@@ -1,5 +1,11 @@
 # Investment Banking Notes
 
+<p align="center">
+  <img src="https://img.shields.io/badge/articles-1-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
+  <img src="https://img.shields.io/badge/status-active-success" alt="series active">
+</p>
+
 I started writing these because I wanted to understand investment banking properly — not the prestige-and-long-hours version, but how the business actually works: how companies get valued, how deals get put together, and why bankers do things the way they do.
 
 One article a day, each building on the last. We start with what banks do, then work through every major valuation method — the same ones bankers run in Excel every day — then M&A and restructuring, and finally some recent research on where the industry is heading.
@@ -15,7 +21,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 ## Contents
 
 | # | Article | The question it answers |
-|---|---|---|
+|:-:|---|---|
 | 01 | [What Investment Banks Actually Do](articles/01-what-investment-banks-do.md) | What does an investment bank sell, and how does it get paid? |
 | 02 | Reading Financial Statements Like a Banker *(coming soon)* | How do the three statements link into one machine? |
 | 03 | Enterprise Value vs Equity Value *(coming soon)* | Why do bankers value the whole firm, not just the shares? |
