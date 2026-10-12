@@ -1,5 +1,7 @@
 # 01 | What Investment Banks Actually Do: Business Lines, Deal Types, and the Banker's Toolkit
 
+*This is where it all starts. Before any valuation model or deal multiple, there's a simpler question worth answering honestly: what does an investment bank actually sell? The answer is less glamorous than the reputation — and more interesting.*
+
 > **Learning goals.** After this article you can: (1) name the four main divisions of an investment bank and what each sells; (2) distinguish advisory from underwriting; (3) list the five canonical deal types and how the bank earns a fee on each; (4) describe what an analyst actually does all day.
 >
 > **Prerequisites.** Basic accounting vocabulary (revenue, profit, assets, liabilities). No finance background required — this series starts from zero.

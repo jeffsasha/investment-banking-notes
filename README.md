@@ -1,54 +1,47 @@
 # Investment Banking Notes
 
-[![Read the series](https://img.shields.io/badge/Series-Reading_index-2563eb?style=flat-square)](#reading-index)
-[![Markdown](https://img.shields.io/badge/Format-Markdown-475569?style=flat-square&logo=markdown&logoColor=white)](#article-format)
-[![Latest commit](https://img.shields.io/github/last-commit/jeffsasha/investment-banking-notes?style=flat-square&color=64748b)](https://github.com/jeffsasha/investment-banking-notes/commits)
+I started writing these because I wanted to understand investment banking properly — not the prestige-and-long-hours version, but how the business actually works: how companies get valued, how deals get put together, and why bankers do things the way they do.
 
-A daily English series on investment banking — from first principles to frontier research. One article per day.
+One article a day, each building on the last. We start with what banks do, then work through every major valuation method — the same ones bankers run in Excel every day — then M&A and restructuring, and finally some recent research on where the industry is heading.
 
-**Audience:** readers starting from zero (this series assumes only basic accounting vocabulary at first), progressing to working-level valuation and deal mechanics.
+No finance background needed at the start, just curiosity and basic accounting vocabulary. By the end, you'll be able to build a comps table, a DCF, and an LBO from scratch — and explain what each one is really saying.
 
-## Reading Index
+## How to read this
 
-| # | Article | Core question |
+- **Start at 01 and go in order.** Later articles assume you've read the earlier ones.
+- Every article follows the same shape: what you'll learn, intuition before the technical detail, a worked example, the misconceptions that trip people up, and a few questions to test yourself.
+- The "Test Yourself" sections include answers. Try them before you peek.
+
+## Contents
+
+| # | Article | The question it answers |
 |---|---|---|
 | 01 | [What Investment Banks Actually Do](articles/01-what-investment-banks-do.md) | What does an investment bank sell, and how does it get paid? |
-| 02 | Reading Financial Statements Like a Banker *(upcoming)* | How do the IS, BS, and CF link into one machine? |
-| 03 | Enterprise Value vs Equity Value *(upcoming)* | Why do bankers value the whole firm, not just the shares? |
-| 04 | Comparable Company Analysis *(upcoming)* | What are peers really worth per dollar of earnings? |
-| 05 | Precedent Transactions & Control Premiums *(upcoming)* | What did buyers actually pay — and why more than the market price? |
-| 06 | DCF Valuation I: UFCF and WACC *(upcoming)* | What is the company worth on its own cash flows? |
-| 07 | DCF Valuation II: Terminal Value & Sanity Checks *(upcoming)* | How not to let the terminal value quietly decide everything |
-| 08 | LBO Analysis *(upcoming)* | What can a PE buyer afford to pay? |
-| 09 | Accretion/Dilution & Merger Models *(upcoming)* | Does this deal grow or shrink EPS? |
-| 10 | The Football Field & Fairness Opinions *(upcoming)* | How do bankers triangulate a valuation range? |
-| 11 | Sell-Side M&A Process *(upcoming)* | From mandate to closing: how an auction really runs |
-| 12 | Buy-Side M&A: Synergies & Deal Structures *(upcoming)* | Strategic rationale, synergy math, cash vs stock |
-| 13 | Restructuring 101 *(upcoming)* | Distress, Chapter 11, and who gets paid first |
-| 14 | Frontier: Recent Research on M&A & Valuation *(upcoming)* | What do recent papers say about premiums, returns, and AI in banking? |
+| 02 | Reading Financial Statements Like a Banker *(coming soon)* | How do the three statements link into one machine? |
+| 03 | Enterprise Value vs Equity Value *(coming soon)* | Why do bankers value the whole firm, not just the shares? |
+| 04 | Comparable Company Analysis *(coming soon)* | What are peers really worth per dollar of earnings? |
+| 05 | Precedent Transactions & Control Premiums *(coming soon)* | What did buyers actually pay — and why more than the market price? |
+| 06 | DCF Valuation I: UFCF and WACC *(coming soon)* | What is the company worth on its own cash flows? |
+| 07 | DCF Valuation II: Terminal Value & Sanity Checks *(coming soon)* | How not to let the terminal value quietly decide everything |
+| 08 | LBO Analysis *(coming soon)* | What can a PE buyer afford to pay? |
+| 09 | Accretion/Dilution & Merger Models *(coming soon)* | Does this deal grow or shrink EPS? |
+| 10 | The Football Field & Fairness Opinions *(coming soon)* | How do bankers triangulate a valuation range? |
+| 11 | Sell-Side M&A Process *(coming soon)* | From mandate to closing: how an auction really runs |
+| 12 | Buy-Side M&A: Synergies & Deal Structures *(coming soon)* | Strategic rationale, synergy math, cash vs stock |
+| 13 | Restructuring 101 *(coming soon)* | Distress, Chapter 11, and who gets paid first |
+| 14 | Frontier: Recent Research on M&A & Valuation *(coming soon)* | What do recent papers say about premiums, returns, and AI in banking? |
 
-## Article Format
+## Papers worth reading
 
-Each article follows the same structure:
+Along the way I cite academic work that genuinely shaped how bankers think:
 
-- **Learning goals + prerequisites** up front
-- **Intuition before derivation** — plain-English explanation first, then the technical detail
-- Worked numerical examples, tables, and diagrams where they help
-- **Common Misconceptions** — the easy-to-get-wrong ideas, corrected
-- **Test Yourself** — 3–4 questions with answers
-- **Next up** — a one-line preview of the following article
-
-## Frontier Research & Papers
-
-Later articles cite recent, verified research on investment banking topics. Foundational papers referenced in this series include:
-
-- Myers, S. & Majluf, N. (1984). *Corporate Financing and Investment Decisions When Firms Have Information That Investors Do Not Have.* Journal of Financial Economics. — Why equity issuance signals bad news (adverse selection); core to ECM thinking.
+- Myers, S. & Majluf, N. (1984). *Corporate Financing and Investment Decisions When Firms Have Information That Investors Do Not Have.* Journal of Financial Economics. — Why issuing equity signals bad news; core to how bankers think about equity raises.
 - Jensen, M. (1986). *Agency Costs of Free Cash Flow, Corporate Finance, and Takeovers.* American Economic Review. — The intellectual backbone of the LBO wave.
 - Roll, R. (1986). *The Hubris Hypothesis of Corporate Takeovers.* Journal of Business. — Why acquirers systematically overpay.
-- Fama, E. & French, K. (1992). *The Cross-Section of Expected Stock Returns.* Journal of Finance. — Factor inputs behind modern cost-of-equity estimates.
+- Fama, E. & French, K. (1992). *The Cross-Section of Expected Stock Returns.* Journal of Finance. — The factor work behind modern cost-of-equity estimates.
 
-Every cited paper in this series is verified (title, authors, year, journal) before publication. No invented citations.
+Every citation is verified — title, authors, year, journal — before it goes in. If I can't confirm a paper exists, it doesn't get cited.
 
-## License & Use
+---
 
-Educational content. Not investment advice.
+*Learning in public. Not investment advice.*
