@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-1-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-2-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -23,7 +23,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | # | Article | The question it answers |
 |:-:|---|---|
 | 01 | [What Investment Banks Actually Do](articles/01-what-investment-banks-do.md) | What does an investment bank sell, and how does it get paid? |
-| 02 | Reading Financial Statements Like a Banker *(coming soon)* | How do the three statements link into one machine? |
+| 02 | [Reading Financial Statements Like a Banker](articles/02-reading-financial-statements.md) | How do the three statements link into one machine? |
 | 03 | Enterprise Value vs Equity Value *(coming soon)* | Why do bankers value the whole firm, not just the shares? |
 | 04 | Comparable Company Analysis *(coming soon)* | What are peers really worth per dollar of earnings? |
 | 05 | Precedent Transactions & Control Premiums *(coming soon)* | What did buyers actually pay — and why more than the market price? |
