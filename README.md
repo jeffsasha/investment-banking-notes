@@ -1,5 +1,9 @@
 # Investment Banking Notes
 
+[![Read the series](https://img.shields.io/badge/Series-Reading_index-2563eb?style=flat-square)](#reading-index)
+[![Markdown](https://img.shields.io/badge/Format-Markdown-475569?style=flat-square&logo=markdown&logoColor=white)](#article-format)
+[![Latest commit](https://img.shields.io/github/last-commit/jeffsasha/investment-banking-notes?style=flat-square&color=64748b)](https://github.com/jeffsasha/investment-banking-notes/commits)
+
 A daily English series on investment banking — from first principles to frontier research. One article per day.
 
 **Audience:** readers starting from zero (this series assumes only basic accounting vocabulary at first), progressing to working-level valuation and deal mechanics.
