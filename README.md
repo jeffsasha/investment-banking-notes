@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-5-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-6-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -27,7 +27,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 03 | [Enterprise Value vs Equity Value: The Bridge](articles/03-ev-vs-equity-value.md) | Why do bankers value the whole firm, not just the shares? |
 | 04 | [Comparable Company Analysis: Trading Multiples](articles/04-comparable-company-analysis.md) | What are peers really worth per dollar of earnings? |
 | 05 | [Precedent Transactions & Control Premiums](articles/05-precedent-transactions.md) | What did buyers actually pay — and why more than the market price? |
-| 06 | DCF Valuation I: UFCF and WACC *(coming soon)* | What is the company worth on its own cash flows? |
+| 06 | [DCF Valuation I: UFCF and WACC](articles/06-dcf-part1-ufcf-wacc.md) | What is the company worth on its own cash flows? |
 | 07 | DCF Valuation II: Terminal Value & Sanity Checks *(coming soon)* | How not to let the terminal value quietly decide everything |
 | 08 | LBO Analysis *(coming soon)* | What can a PE buyer afford to pay? |
 | 09 | Accretion/Dilution & Merger Models *(coming soon)* | Does this deal grow or shrink EPS? |
