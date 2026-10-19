@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-7-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-8-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -29,7 +29,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 05 | [Precedent Transactions & Control Premiums](articles/05-precedent-transactions.md) | What did buyers actually pay — and why more than the market price? |
 | 06 | [DCF Valuation I: UFCF and WACC](articles/06-dcf-part1-ufcf-wacc.md) | What is the company worth on its own cash flows? |
 | 07 | [DCF Valuation II: Terminal Value & Sanity Checks](articles/07-dcf-part2-terminal-value.md) | How not to let the terminal value quietly decide everything |
-| 08 | LBO Analysis *(coming soon)* | What can a PE buyer afford to pay? |
+| 08 | [LBO Analysis: Sources, Uses, and Returns](articles/08-lbo-analysis.md) | What can a PE buyer afford to pay? |
 | 09 | Accretion/Dilution & Merger Models *(coming soon)* | Does this deal grow or shrink EPS? |
 | 10 | The Football Field & Fairness Opinions *(coming soon)* | How do bankers triangulate a valuation range? |
 | 11 | Sell-Side M&A Process *(coming soon)* | From mandate to closing: how an auction really runs |
