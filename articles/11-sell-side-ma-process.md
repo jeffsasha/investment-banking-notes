@@ -10,7 +10,7 @@
 
 When a company hires an investment bank on the sell side, the mandate letter says "provide financial advisory services in connection with a potential sale of the company." Read it the way a banker does: the client is not buying advice. The client is buying *competition*.
 
-A sell-side banker's job is to manufacture the maximum number of informed, motivated buyers, give them all the same deadline, and let the desire to win do the pricing. The CIM and the data room and the process letter are just the machinery. The product is the auction itself.
+A sell-side banker's job is to manufacture the maximum number of informed, motivated buyers, give them all the same deadline, and let the desire to win do the pricing. The CIM, the data room, and the process letter are just the machinery. The product is the auction itself.
 
 The banker gets paid almost entirely on success. A typical sell-side fee is a percentage of deal value — often on a sliding scale like the old Lehman formula (5% of the first $1 million, 4% of the second, 3% of the third, 2% of the fourth, 1% of everything above), which on a large deal works out to roughly 0.5–1.5% of enterprise or equity value. The key feature: the fee is *contingent on closing*. That aligns the banker with the seller on getting the deal done — and creates the conflicts from article 10, because a banker paid only if the deal closes has an incentive to favor *a* deal over the *best* deal.
 
@@ -20,19 +20,19 @@ One more definition before we start, because it organizes everything: **strategi
 
 Before anything is written, the banker and the board choose the sale method, and there are really only two: a **broad auction** (contact many potential buyers, run a formal multi-round process) or a **negotiated sale** (talk to one bidder, or a small handful, privately).
 
-The naive intuition is that auctions always get higher prices — more bidders, more competition, higher price. That's the classic auction-theory result (Bulow and Klemperer, 1996): an extra bidder is worth more than any amount of negotiating skill.
+The naive intuition is that auctions always get higher prices — more bidders, more competition, higher price. That's the classic auction-theory result (Bulow and Klemperer, 1996).
 
 But the data is more interesting than the theory. Boone and Mulherin (2007) dug into the actual private sale process behind hundreds of deals — the SEC filings that describe who was contacted and when — and found that **roughly half of firms are sold through auctions and half through one-on-one negotiations**, with *similar* bid premiums in both groups. Targets, it seems, choose the method that fits their situation, and choose well.
 
-Why would a board ever choose a negotiation? Three honest reasons: **confidentiality** (a broad auction exposes your financials to competitors, and a failed auction damages the company), **deal complexity** (bespoke terms like earnouts and carve-outs don't fit standardized auction formats), and **the preemptive bid** (a single bidder who moves fast and bids high can *deter* competition — why would a rival spend millions on diligence if the first bidder already offered a full price?).
+Why would a board ever choose a negotiation? Three honest reasons: **confidentiality** (a broad auction exposes your financials to competitors, and a failed auction damages the company), **deal complexity** (bespoke terms like earnouts don't fit standardized formats), and **the preemptive bid** (a fast, full-price bid can *deter* competition — why spend millions on diligence if the first bidder already offered a full price?).
 
 That last point is formalized in a lovely paper: Aktas, de Bodt, and Roll (2010) show that in negotiated deals, the *threat* of an auction — latent competition, the possibility that the seller could shop the deal — pushes the negotiated bidder to pay up. The competition doesn't have to be real to be effective. It just has to be credible.
 
-**The working rule:** auction when the asset is broadly attractive and easy to understand; negotiate when the buyer universe is naturally small, confidentiality is paramount, or one bidder's synergies dwarf everyone else's. In practice, most sell-side processes are limited auctions — 10–15 hand-picked parties — wearing the word "auction" like a tailored suit.
+**The working rule:** auction when the asset is broadly attractive and easy to understand; negotiate when the buyer universe is small, confidentiality is paramount, or one bidder's synergies dwarf everyone else's. In practice, most sell-side processes are limited auctions — 10–15 hand-picked parties — wearing the word "auction" like a tailored suit.
 
 ## 3. Designing the process: the buyers list
 
-Once the method is chosen, the banker builds the buyers list — and this is where industry knowledge is the entire job. The list typically runs 30–100 names, split into strategics and financials, and each name needs a thesis: *why would this specific buyer pay more than the others?* A strategic consolidating a fragmented market pays for market share. A PE firm that already owns a platform in the space pays for the add-on that doubles its platform's EBITDA (and its exit multiple — the multiple arbitrage from article 08).
+Once the method is chosen, the banker builds the buyers list — and this is where industry knowledge is the entire job. The list typically runs 30–100 names, split into strategics and financials, and each name needs a thesis: *why would this specific buyer pay more than the others?* A strategic consolidating a fragmented market pays for market share. A PE firm that already owns a platform in the space pays for the add-on that grows its exit multiple (the multiple arbitrage from article 08).
 
 The banker also thinks about who *not* to call. Direct competitors get the teaser last, with the thinnest information, because the risk is that they learn your margins and walk away. Buyers who can't finance the deal are worse than useless; they burn weeks and leak the process.
 
@@ -64,7 +64,7 @@ One more CIM feature: the **quality of earnings report**, usually prepared by th
 
 By the process letter's deadline, interested buyers submit **IOIs — indications of interest**: non-binding letters stating a valuation range, the form of consideration, financing sources, and key conditions. "Non-binding" is doing a lot of work in that sentence — an IOI is legally worthless and strategically essential. It's the first time anyone puts a number on paper.
 
-The banker then does the most judgment-heavy part of the job: **the shortlist**. From, say, 25 IOIs, the banker and the board pick 5–8 parties to invite to management presentations. Price matters most, but it's not the only thing. A top-of-range IOI from a buyer with no financing lined up and a history of retrading (lowering the price late in the process) loses to a slightly lower bid from a buyer who will actually close. Certainty of close is a real variable with a real price.
+The banker then does the most judgment-heavy part of the job: **the shortlist**. From, say, 25 IOIs, the banker and the board pick 5–8 parties to invite to management presentations. Price matters most, but a top-of-range IOI from a buyer with no financing and a history of retrading (lowering the price late) loses to a slightly lower bid from a buyer who will actually close. Certainty of close is a real variable with a real price.
 
 ## 7. Management presentations and the data room
 
@@ -158,13 +158,13 @@ If a topping bidder appears during the go-shop at $22.00/share ($258.5m equity v
 
 ## Common Misconceptions
 
-**"The highest bid always wins."** No — the best *risk-adjusted* bid wins. A $21 bid with committed financing, a narrow MAC, and a clean antitrust profile beats a $22 bid funded by "highly confident" letters, a broad MAC, and a 12-month regulatory fight. Boards are fiduciaries; certainty of close is part of value.
+**"The highest bid always wins."** No — the best *risk-adjusted* bid wins. A $21 bid with committed financing and a clean antitrust profile beats a $22 bid funded by "highly confident" letters and a 12-month regulatory fight. Boards are fiduciaries; certainty of close is part of value.
 
 **"Auctions always produce higher prices than negotiations."** The evidence says otherwise. Boone and Mulherin (2007) find similar premiums across the two methods — targets self-select the right method, and a negotiation conducted under the *threat* of an auction (Aktas, de Bodt, and Roll, 2010) carries competitive pressure without the auction's costs. The method is a tactic, not a religion.
 
-**"The CIM's projections are the banker's valuation."** The CIM is a marketing document wearing a valuation's clothes. Its projections anchor the negotiation, but every serious bidder rebuilds the model from scratch — which is why articles 04–08 taught you to build your own.
+**"The CIM's projections are the banker's valuation."** The CIM is a marketing document wearing a valuation's clothes. Its projections anchor the negotiation, but every serious bidder rebuilds the model from scratch.
 
-**"Once the deal is signed, it's done."** Signing starts the most fragile phase. Shareholder votes fail, regulators block, financing collapses, MAC clauses get invoked. The break fee, the go-shop, the HSR filing — the whole apparatus of sections 9–10 exists because a signed deal is a promise, and promises need enforcement mechanics.
+**"Once the deal is signed, it's done."** Signing starts the most fragile phase. Shareholder votes fail, regulators block, financing collapses, MAC clauses get invoked. The break fee, the go-shop, the HSR filing — this whole apparatus exists because a signed deal is a promise, and promises need enforcement mechanics.
 
 **"The banker works for the shareholders."** The banker is hired by the board and paid a success fee contingent on closing. The banker's incentives *mostly* align with getting a good price, but "mostly" is doing heavy lifting in that sentence. Read the proxy's fee disclosures. They're there for a reason.
 
@@ -176,7 +176,7 @@ If a topping bidder appears during the go-shop at $22.00/share ($258.5m equity v
 
 **Q2.** Why might a board rationally choose a negotiation over a broad auction? Cite the evidence.
 
-*A2. Confidentiality (a broad auction exposes financials to competitors, and a failed auction damages the company), deal complexity (bespoke terms like earnouts don't fit standardized formats), and preemptive bidding (a fast, full-price bid deters rivals from spending on diligence). Boone and Mulherin (2007) find roughly half of firms are sold via negotiation with similar premiums across methods — targets self-select optimally. Aktas, de Bodt, and Roll (2010) add that latent competition — the credible threat of an auction — pushes negotiated bidders to pay up.*
+*A2. Confidentiality (a broad auction exposes financials to competitors, and a failed auction damages the company), deal complexity (bespoke terms don't fit standardized formats), and preemptive bidding (a fast, full-price bid deters rivals from spending on diligence). Boone and Mulherin (2007) find roughly half of firms are sold via negotiation with similar premiums across methods — targets self-select optimally. Aktas, de Bodt, and Roll (2010) add that latent competition — the credible threat of an auction — pushes negotiated bidders to pay up.*
 
 **Q3.** A deal with $400m equity value has a 3% seller termination fee. A topping bidder offers $415m during the go-shop. Does the topping bid clearly win? Show the math.
 
