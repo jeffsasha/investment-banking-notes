@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-15-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-16-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -37,6 +37,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 13 | [Restructuring 101: Distress and Chapter 11](articles/13-restructuring-101.md) | Distress, Chapter 11, and who gets paid first |
 | 14 | [Frontier: Recent Research on M&A and Valuation](articles/14-frontier-research.md) | What do recent papers say about premiums, returns, and AI in banking? |
 | 15 | [Sum-of-the-Parts Valuation: Valuing a Conglomerate Piece by Piece](articles/15-sum-of-the-parts.md) | What is a conglomerate worth if each segment is priced like its own peers? |
+| 16 | [Distressed DCF: Valuing a Company That Might Not Survive](articles/16-distressed-dcf.md) | What is a distressed company worth when survival itself is uncertain? |
 
 ## Papers worth reading
 
