@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-17-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-18-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -39,6 +39,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 15 | [Sum-of-the-Parts Valuation: Valuing a Conglomerate Piece by Piece](articles/15-sum-of-the-parts.md) | What is a conglomerate worth if each segment is priced like its own peers? |
 | 16 | [Distressed DCF: Valuing a Company That Might Not Survive](articles/16-distressed-dcf.md) | What is a distressed company worth when survival itself is uncertain? |
 | 17 | [13F Filings and Activist Investing: Reading What the Smart Money Owns — and What It Wants to Change](articles/17-13f-activist-investing.md) | What can you learn from what big funds own — and what happens when one stops being quiet? |
+| 18 | [AI in Investment Banking: What Changes, What Doesn't](articles/18-ai-in-investment-banking.md) | Which banker tasks does AI speed up, which does it make worse, and what can it never replace? |
 
 ## Papers worth reading
 
