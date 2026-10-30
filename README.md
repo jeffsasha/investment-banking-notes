@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-19-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-20-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -41,6 +41,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 17 | [13F Filings and Activist Investing: Reading What the Smart Money Owns — and What It Wants to Change](articles/17-13f-activist-investing.md) | What can you learn from what big funds own — and what happens when one stops being quiet? |
 | 18 | [AI in Investment Banking: What Changes, What Doesn't](articles/18-ai-in-investment-banking.md) | Which banker tasks does AI speed up, which does it make worse, and what can it never replace? |
 | 19 | [IPO Pricing and Bookbuilding: Why New Listings Pop](articles/19-ipo-pricing-bookbuilding.md) | Why do IPOs jump on day one — and who pays for the jump? |
+| 20 | [Debt Capital Markets: How a Bond Deal Gets Done](articles/20-debt-capital-markets.md) | How does a company borrow $500 million from strangers — and what sets the price? |
 
 ## Papers worth reading
 
