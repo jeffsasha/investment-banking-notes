@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-22-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-23-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -44,6 +44,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 20 | [Debt Capital Markets: How a Bond Deal Gets Done](articles/20-debt-capital-markets.md) | How does a company borrow $500 million from strangers — and what sets the price? |
 | 21 | [Hostile Takeovers and Takeover Defenses: When the Board Says No](articles/21-hostile-takeovers-defenses.md) | What happens when a bidder goes over the board's head — and how far can defences go? |
 | 22 | [Spin-offs, Split-offs, and Carve-outs: When Breaking a Company Apart Creates Value](articles/22-spin-offs-carve-outs.md) | When is a company worth more in pieces than as a whole? |
+| 23 | [Merger Arbitrage: Betting on Deals Closing](articles/23-merger-arbitrage.md) | What does the gap between a deal's announcement and its close really price? |
 
 ## Papers worth reading
 
