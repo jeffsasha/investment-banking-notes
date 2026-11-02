@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-21-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-22-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -43,6 +43,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 19 | [IPO Pricing and Bookbuilding: Why New Listings Pop](articles/19-ipo-pricing-bookbuilding.md) | Why do IPOs jump on day one — and who pays for the jump? |
 | 20 | [Debt Capital Markets: How a Bond Deal Gets Done](articles/20-debt-capital-markets.md) | How does a company borrow $500 million from strangers — and what sets the price? |
 | 21 | [Hostile Takeovers and Takeover Defenses: When the Board Says No](articles/21-hostile-takeovers-defenses.md) | What happens when a bidder goes over the board's head — and how far can defences go? |
+| 22 | [Spin-offs, Split-offs, and Carve-outs: When Breaking a Company Apart Creates Value](articles/22-spin-offs-carve-outs.md) | When is a company worth more in pieces than as a whole? |
 
 ## Papers worth reading
 
