@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-25-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-26-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -47,6 +47,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 23 | [Merger Arbitrage: Betting on Deals Closing](articles/23-merger-arbitrage.md) | What does the gap between a deal's announcement and its close really price? |
 | 24 | [Private Credit: How Non-Bank Lenders Took Over the Leveraged Loan Market](articles/24-private-credit.md) | Why do borrowers pay more to borrow from a fund instead of a bank? |
 | 25 | [Leveraged Finance: The Debt Behind the Deal](articles/25-leveraged-finance.md) | How does a leveraged borrower actually raise and price its debt — and what does each layer cost and protect? |
+| 26 | [Equity Capital Markets Beyond the IPO: Follow-Ons, Blocks, and Buybacks](articles/26-ecm-beyond-ipo.md) | What happens after the IPO — follow-ons, block trades, and buybacks? |
 
 ## Papers worth reading
 
