@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-27-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-28-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -49,6 +49,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 25 | [Leveraged Finance: The Debt Behind the Deal](articles/25-leveraged-finance.md) | How does a leveraged borrower actually raise and price its debt — and what does each layer cost and protect? |
 | 26 | [Equity Capital Markets Beyond the IPO: Follow-Ons, Blocks, and Buybacks](articles/26-ecm-beyond-ipo.md) | What happens after the IPO — follow-ons, block trades, and buybacks? |
 | 27 | [Valuing Banks and Financial Institutions: Why P/E Breaks and P/B Works](articles/27-valuing-banks.md) | Why do banks break every valuation tool — and how do you value them anyway? |
+| 28 | [Valuing Real Estate Companies: NAV, FFO, and Cap Rates](articles/28-valuing-real-estate.md) | Why do REITs need their own earnings metric — and how do you value a company that owns buildings? |
 
 ## Papers worth reading
 
