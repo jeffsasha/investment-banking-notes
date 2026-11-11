@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-29-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-30-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -51,6 +51,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 27 | [Valuing Banks and Financial Institutions: Why P/E Breaks and P/B Works](articles/27-valuing-banks.md) | Why do banks break every valuation tool — and how do you value them anyway? |
 | 28 | [Valuing Real Estate Companies: NAV, FFO, and Cap Rates](articles/28-valuing-real-estate.md) | Why do REITs need their own earnings metric — and how do you value a company that owns buildings? |
 | 29 | [Valuing Insurance Companies: Float, Reserves, and Why Book Value Rules](articles/29-valuing-insurance-companies.md) | Why do insurers need their own valuation playbook — and what is float really worth? |
+| 30 | [Credit Ratings and the Rating Agencies: Who Grades the Debt?](articles/30-credit-ratings-and-rating-agencies.md) | Who grades corporate debt — and what happens when the grade changes? |
 
 ## Papers worth reading
 
