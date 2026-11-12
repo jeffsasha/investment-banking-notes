@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-31-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-32-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -53,6 +53,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 29 | [Valuing Insurance Companies: Float, Reserves, and Why Book Value Rules](articles/29-valuing-insurance-companies.md) | Why do insurers need their own valuation playbook — and what is float really worth? |
 | 30 | [Credit Ratings and the Rating Agencies: Who Grades the Debt?](articles/30-credit-ratings-and-rating-agencies.md) | Who grades corporate debt — and what happens when the grade changes? |
 | 31 | [The Purchase Price Adjustment: Working Capital, Net Debt, and What Actually Changes Hands at Close](articles/31-purchase-price-adjustment.md) | Why is the cash that changes hands at closing never the announced price? |
+| 32 | [Earnouts and Contingent Consideration: Paying for the Future](articles/32-earnouts-contingent-consideration.md) | How do you buy a company when buyer and seller can't agree on what it's worth? |
 
 ## Papers worth reading
 
