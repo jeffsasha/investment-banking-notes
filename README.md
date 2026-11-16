@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-33-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-34-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -55,6 +55,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 31 | [The Purchase Price Adjustment: Working Capital, Net Debt, and What Actually Changes Hands at Close](articles/31-purchase-price-adjustment.md) | Why is the cash that changes hands at closing never the announced price? |
 | 32 | [Earnouts and Contingent Consideration: Paying for the Future](articles/32-earnouts-contingent-consideration.md) | How do you buy a company when buyer and seller can't agree on what it's worth? |
 | 33 | [SPACs and the Blank-Check Boom: When the Deal Goes Public Before It Finds a Target](articles/33-spacs-blank-check-boom.md) | What happens when the deal itself goes public before it finds a target? |
+| 34 | [Convertible Bonds: When Debt Turns Into Equity](articles/34-convertible-bonds.md) | Why would a company borrow money that can turn into shares — and why would an investor accept it? |
 
 ## Papers worth reading
 
