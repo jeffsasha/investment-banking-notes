@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-35-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-36-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -57,6 +57,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 33 | [SPACs and the Blank-Check Boom: When the Deal Goes Public Before It Finds a Target](articles/33-spacs-blank-check-boom.md) | What happens when the deal itself goes public before it finds a target? |
 | 34 | [Convertible Bonds: When Debt Turns Into Equity](articles/34-convertible-bonds.md) | Why would a company borrow money that can turn into shares — and why would an investor accept it? |
 | 35 | [Preferred Stock and Hybrid Capital: The Layer Between Debt and Equity](articles/35-preferred-stock-hybrid-capital.md) | Why does a security that is neither debt nor equity exist — and who actually wants it? |
+| 36 | [CLOs and Structured Credit: How Loans Become Bonds](articles/36-clos-structured-credit.md) | How do you turn a pile of B-rated loans into a AAA bond — and when does the trick fail? |
 
 ## Papers worth reading
 
