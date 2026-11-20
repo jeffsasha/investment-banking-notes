@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-37-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-38-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -59,6 +59,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 35 | [Preferred Stock and Hybrid Capital: The Layer Between Debt and Equity](articles/35-preferred-stock-hybrid-capital.md) | Why does a security that is neither debt nor equity exist — and who actually wants it? |
 | 36 | [CLOs and Structured Credit: How Loans Become Bonds](articles/36-clos-structured-credit.md) | How do you turn a pile of B-rated loans into a AAA bond — and when does the trick fail? |
 | 37 | [Distressed Debt Investing: Buying a Company's Debt at a Discount](articles/37-distressed-debt-investing.md) | How do you buy a claim for less than it will pay — and which layer is the trap? |
+| 38 | [Buy-and-Build: Roll-Up Strategies and the Art of Serial Acquisitions](articles/38-buy-and-build-roll-ups.md) | How do you buy small companies cheap and sell the combination dear? |
 
 ## Papers worth reading
 
