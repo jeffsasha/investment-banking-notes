@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-39-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-40-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -61,6 +61,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 37 | [Distressed Debt Investing: Buying a Company's Debt at a Discount](articles/37-distressed-debt-investing.md) | How do you buy a claim for less than it will pay — and which layer is the trap? |
 | 38 | [Buy-and-Build: Roll-Up Strategies and the Art of Serial Acquisitions](articles/38-buy-and-build-roll-ups.md) | How do you buy small companies cheap and sell the combination dear? |
 | 39 | [Take-Privates: When Public Companies Go Private](articles/39-take-privates.md) | Why would a sponsor pay a premium to buy a company the market already owns? |
+| 40 | [Dividend Recapitalizations: When an LBO Pays Its Owners Back](articles/40-dividend-recapitalizations.md) | How does a sponsor get paid before selling the company — and what does the extra debt cost? |
 
 ## Papers worth reading
 
