@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-40-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-41-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -62,6 +62,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 38 | [Buy-and-Build: Roll-Up Strategies and the Art of Serial Acquisitions](articles/38-buy-and-build-roll-ups.md) | How do you buy small companies cheap and sell the combination dear? |
 | 39 | [Take-Privates: When Public Companies Go Private](articles/39-take-privates.md) | Why would a sponsor pay a premium to buy a company the market already owns? |
 | 40 | [Dividend Recapitalizations: When an LBO Pays Its Owners Back](articles/40-dividend-recapitalizations.md) | How does a sponsor get paid before selling the company — and what does the extra debt cost? |
+| 41 | [Secondary Buyouts: When One Sponsor Sells to Another](articles/41-secondary-buyouts.md) | Why is the buyer of a buyout so often another buyout firm — and is the second bite ever as good as the first? |
 
 ## Papers worth reading
 
