@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-42-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-43-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -64,6 +64,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 40 | [Dividend Recapitalizations: When an LBO Pays Its Owners Back](articles/40-dividend-recapitalizations.md) | How does a sponsor get paid before selling the company — and what does the extra debt cost? |
 | 41 | [Secondary Buyouts: When One Sponsor Sells to Another](articles/41-secondary-buyouts.md) | Why is the buyer of a buyout so often another buyout firm — and is the second bite ever as good as the first? |
 | 42 | [Continuation Funds: When a Sponsor Sells to Itself](articles/42-continuation-funds.md) | What happens when the buyer and the seller are the same manager? |
+| 43 | [Permanent Capital: The Fund That Never Has to Sell](articles/43-permanent-capital.md) | What happens when a manager stops fighting the fund-life clock entirely and builds a vehicle with no expiry date? |
 
 ## Papers worth reading
 
