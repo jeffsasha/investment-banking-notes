@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-43-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-44-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -65,6 +65,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 41 | [Secondary Buyouts: When One Sponsor Sells to Another](articles/41-secondary-buyouts.md) | Why is the buyer of a buyout so often another buyout firm — and is the second bite ever as good as the first? |
 | 42 | [Continuation Funds: When a Sponsor Sells to Itself](articles/42-continuation-funds.md) | What happens when the buyer and the seller are the same manager? |
 | 43 | [Permanent Capital: The Fund That Never Has to Sell](articles/43-permanent-capital.md) | What happens when a manager stops fighting the fund-life clock entirely and builds a vehicle with no expiry date? |
+| 44 | [Fund Finance: Subscription Lines and NAV Loans — The Leverage Behind the Fund](articles/44-fund-finance.md) | How does a fund borrow against its investors' promises — and what does it do to the IRR? |
 
 ## Papers worth reading
 
