@@ -1,7 +1,7 @@
 # Investment Banking Notes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/articles-44-brightgreen" alt="articles published">
+  <img src="https://img.shields.io/badge/articles-45-brightgreen" alt="articles published">
   <img src="https://img.shields.io/badge/new_article-daily-blue" alt="one new article every day">
   <img src="https://img.shields.io/badge/status-active-success" alt="series active">
 </p>
@@ -66,6 +66,7 @@ No finance background needed at the start, just curiosity and basic accounting v
 | 42 | [Continuation Funds: When a Sponsor Sells to Itself](articles/42-continuation-funds.md) | What happens when the buyer and the seller are the same manager? |
 | 43 | [Permanent Capital: The Fund That Never Has to Sell](articles/43-permanent-capital.md) | What happens when a manager stops fighting the fund-life clock entirely and builds a vehicle with no expiry date? |
 | 44 | [Fund Finance: Subscription Lines and NAV Loans — The Leverage Behind the Fund](articles/44-fund-finance.md) | How does a fund borrow against its investors' promises — and what does it do to the IRR? |
+| 45 | [GP Stakes: When Investors Buy the Manager](articles/45-gp-stakes.md) | What happens when investors buy the manager instead of the fund? |
 
 ## Papers worth reading
 
